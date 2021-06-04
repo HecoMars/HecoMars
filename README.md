@@ -18,6 +18,7 @@ https://hecoinfo.com/token/0xba610ba6aa24ae83e63cc05b260ad49b2784d868#balances
 0xba610ba6aa24ae83e63cc05b260ad49b2784d868
 
 加入官方电报群：
+https://t.me/MarsTokenHECO
 https://t.me/joinchat/AD3VrWVYGA1hMWVl
 
 购买方式：购买方式：TP里-发现-搜索mdex-输入合约地址-兑换
